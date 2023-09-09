@@ -1,0 +1,101 @@
+id_customer;name;adresse_customer;code_postal;sector;lib_sector
+1000000001;John Doe;123 Main Street, New York, NY;1000;5432;IT Services
+1000000002;Jane Smith;456 Elm Avenue, Los Angeles, CA;9000;1234;Finance
+1000000003;David Johnson;789 Oak Road, Chicago, IL;6060;2345;Healthcare
+1000000004;Sarah Brown;987 Pine Lane, Houston, TX;7700;6789;Retail
+1000000005;Michael Davis;654 Maple Drive, Miami, FL;3310;9012;Manufacturing
+1000000006;Emily Wilson;321 Cedar Court, San Francisco, CA;9401;3456;Education
+1000000007;Robert Taylor;567 Birch Street, Boston, MA;2101;7890;Hospitality
+1000000008;Samantha Anderson;890 Walnut Avenue, Dallas, TX;2345;5678;Agriculture
+1000000009;Christopher Thomas;432 Oak Lane, Seattle, WA;9810;4567;Technology
+1000000010;Jessica Rodriguez;876 Elm Street, Denver, CO;6789;8901;Fashion
+1000000011;William Johnson;123 Main Street, New York, NY;1000;5432;IT Services
+1000000012;Olivia Smith;456 Elm Avenue, Los Angeles, CA;9000;1234;Finance
+1000000013;Noah Johnson;789 Oak Road, Chicago, IL;6060;2345;Healthcare
+1000000014;Emma Brown;987 Pine Lane, Houston, TX;7700;6789;Retail
+1000000015;Liam Davis;654 Maple Drive, Miami, FL;3310;9012;Manufacturing
+1000000016;Ava Wilson;321 Cedar Court, San Francisco, CA;9401;3456;Education
+1000000017;Benjamin Taylor;567 Birch Street, Boston, MA;2101;7890;Hospitality
+1000000018;Isabella Anderson;890 Walnut Avenue, Dallas, TX;2345;5678;Agriculture
+1000000019;Mia Thomas;432 Oak Lane, Seattle, WA;9810;4567;Technology
+1000000020;James Rodriguez;876 Elm Street, Denver, CO;6789;8901;Fashion
+1000000021;Sophia Davis;789 Oak Street, San Francisco, CA;2345;3456;Education
+1000000022;Logan Wilson;456 Elm Avenue, Los Angeles, CA;9000;1234;Finance
+1000000023;Lucas Thompson;321 Maple Lane, Seattle, WA;9012;4567;Technology
+1000000024;Harper Brown;987 Oak Road, Houston, TX;7700;6789;Retail
+1000000025;Amelia Johnson;654 Cedar Court, Miami, FL;9012;9012;Manufacturing
+1000000026;Ethan Anderson;123 Pine Street, New York, NY;7890;1234;Finance
+1000000027;Alexander Thomas;890 Walnut Avenue, Dallas, TX;2345;5678;Agriculture
+1000000028;Charlotte Rodriguez;432 Birch Street, Boston, MA;4567;7890;Hospitality
+1000000029;Daniel Smith;876 Elm Street, Denver, CO;6789;8901;Fashion
+1000000030;Sofia Brown;2313 Hill Street, Los Angeles, CA;9012;5432;IT Services
+1000000031;Olivia Wilson;876 Oak Street, San Francisco, CA;3456;3456;Education
+1000000032;Noah Thompson;543 Maple Avenue, Los Angeles, CA;6789;1234;Finance
+1000000033;Emma Davis;123 Pine Lane, Seattle, WA;4567;4567;Technology
+1000000034;Liam Anderson;987 Oak Road, Houston, TX;7700;6789;Retail
+1000000035;Ava Johnson;654 Cedar Court, Miami, FL;9012;9012;Manufacturing
+1000000036;Benjamin Smith;321 Elm Street, New York, NY;2345;1234;Finance
+1000000037;Isabella Rodriguez;890 Walnut Avenue, Dallas, TX;2345;5678;Agriculture
+1000000038;Mia Brown;432 Birch Street, Boston, MA;4567;7890;Hospitality
+1000000039;James Wilson;876 Maple Drive, Denver, CO;9012;8901;Fashion
+1000000040;Sophia Thompson;2313 Hill Street, Los Angeles, CA;9012;5432;IT Services
+1000000041;Olivia Davis;543 Oak Street, San Francisco, CA;5678;1234;Finance
+1000000042;Noah Anderson;654 Elm Avenue, Los Angeles, CA;7890;3456;Education
+1000000043;Emma Johnson;321 Maple Lane, Seattle, WA;9012;4567;Technology
+1000000044;Liam Smith;987 Oak Road, Houston, TX;7700;6789;Retail
+1000000045;Ava Brown;876 Cedar Court, Miami, FL;5678;9012;Manufacturing
+1000000046;Benjamin Wilson;123 Pine Street, New York, NY;7890;1234;Finance
+1000000047;Isabella Thompson;890 Walnut Avenue, Dallas, TX;2345;5678;Agriculture
+1000000048;Mia Rodriguez;432 Birch Street, Boston, MA;4567;7890;Hospitality
+1000000049;James Davis;876 Elm Street, Denver, CO;6789;8901;Fashion
+1000000050;Sophia Smith;2313 Hill Street, Los Angeles, CA;9012;5432;IT Services
+1000000051;Olivia Thompson;543 Oak Street, San Francisco, CA;5678;1234;Finance
+1000000052;Noah Anderson;654 Elm Avenue, Los Angeles, CA;7890;3456;Education
+1000000053;Emma Johnson;321 Maple Lane, Seattle, WA;9012;4567;Technology
+1000000054;Liam Smith;987 Oak Road, Houston, TX;7700;6789;Retail
+1000000055;Ava Brown;876 Cedar Court, Miami, FL;5678;9012;Manufacturing
+1000000056;Benjamin Wilson;123 Pine Street, New York, NY;7890;1234;Finance
+1000000057;Isabella Thompson;890 Walnut Avenue, Dallas, TX;2345;5678;Agriculture
+1000000058;Mia Rodriguez;432 Birch Street, Boston, MA;4567;7890;Hospitality
+1000000059;James Davis;876 Elm Street, Denver, CO;6789;8901;Fashion
+1000000060;Sophia Smith;2313 Hill Street, Los Angeles, CA;9012;5432;IT Services
+1000000061;Olivia Davis;543 Oak Street, San Francisco, CA;5678;1234;Finance
+1000000062;Noah Anderson;654 Elm Avenue, Los Angeles, CA;7890;3456;Education
+1000000063;Emma Johnson;321 Maple Lane, Seattle, WA;9012;4567;Technology
+1000000064;Liam Smith;987 Oak Road, Houston, TX;7700;6789;Retail
+1000000065;Ava Brown;876 Cedar Court, Miami, FL;5678;9012;Manufacturing
+1000000066;Benjamin Wilson;123 Pine Street, New York, NY;7890;1234;Finance
+1000000067;Isabella Thompson;890 Walnut Avenue, Dallas, TX;2345;5678;Agriculture
+1000000068;Mia Rodriguez;432 Birch Street, Boston, MA;4567;7890;Hospitality
+1000000069;James Davis;876 Elm Street, Denver, CO;6789;8901;Fashion
+1000000070;Sophia Smith;2313 Hill Street, Los Angeles, CA;9012;5432;IT Services
+1000000071;Olivia Thompson;543 Oak Street, San Francisco, CA;5678;1234;Finance
+1000000072;Noah Anderson;654 Elm Avenue, Los Angeles, CA;7890;3456;Education
+1000000073;Emma Johnson;321 Maple Lane, Seattle, WA;9012;4567;Technology
+1000000074;Liam Smith;987 Oak Road, Houston, TX;7700;6789;Retail
+1000000075;Ava Brown;876 Cedar Court, Miami, FL;5678;9012;Manufacturing
+1000000076;Benjamin Wilson;123 Pine Street, New York, NY;7890;1234;Finance
+1000000077;Isabella Thompson;890 Walnut Avenue, Dallas, TX;2345;5678;Agriculture
+1000000078;Mia Rodriguez;432 Birch Street, Boston, MA;4567;7890;Hospitality
+1000000079;James Davis;876 Elm Street, Denver, CO;6789;8901;Fashion
+1000000080;Sophia Smith;2313 Hill Street, Los Angeles, CA;9012;5432;IT Services
+1000000081;Olivia Davis;543 Oak Street, San Francisco, CA;5678;1234;Finance
+1000000082;Noah Anderson;654 Elm Avenue, Los Angeles, CA;7890;3456;Education
+1000000083;Emma Johnson;321 Maple Lane, Seattle, WA;9012;4567;Technology
+1000000084;Liam Smith;987 Oak Road, Houston, TX;7700;6789;Retail
+1000000085;Ava Brown;876 Cedar Court, Miami, FL;5678;9012;Manufacturing
+1000000086;Benjamin Wilson;123 Pine Street, New York, NY;7890;1234;Finance
+1000000087;Isabella Thompson;890 Walnut Avenue, Dallas, TX;2345;5678;Agriculture
+1000000088;Mia Rodriguez;432 Birch Street, Boston, MA;4567;7890;Hospitality
+1000000089;James Davis;876 Elm Street, Denver, CO;6789;8901;Fashion
+1000000090;Sophia Smith;2313 Hill Street, Los Angeles, CA;9012;5432;IT Services
+1000000091;Olivia Thompson;543 Oak Street, San Francisco, CA;5678;1234;Finance
+1000000092;Noah Anderson;654 Elm Avenue, Los Angeles, CA;7890;3456;Education
+1000000093;Emma Johnson;321 Maple Lane, Seattle, WA;9012;4567;Technology
+1000000094;Liam Smith;987 Oak Road, Houston, TX;7700;6789;Retail
+1000000095;Ava Brown;876 Cedar Court, Miami, FL;5678;9012;Manufacturing
+1000000096;Benjamin Wilson;123 Pine Street, New York, NY;7890;1234;Finance
+1000000097;Isabella Thompson;890 Walnut Avenue, Dallas, TX;2345;5678;Agriculture
+1000000098;Mia Rodriguez;432 Birch Street, Boston, MA;4567;7890;Hospitality
+1000000099;James Davis;876 Elm Street, Denver, CO;6789;8901;Fashion
+1000000100;Sophia Smith;2313 Hill Street, Los Angeles, CA;9012;5432;IT Services
